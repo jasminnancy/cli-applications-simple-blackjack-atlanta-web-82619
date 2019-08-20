@@ -52,7 +52,7 @@ end
 
 def runner
   welcome
-  initial_round
+  sum = initial_round
   
 end
     
