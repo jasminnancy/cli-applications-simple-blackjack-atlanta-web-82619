@@ -56,6 +56,7 @@ def runner
   
   until sum > 21
     total = hit?(sum)
+    new_total = total
     
   end
 end
