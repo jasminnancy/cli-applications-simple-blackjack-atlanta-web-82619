@@ -55,7 +55,7 @@ def runner
   sum = initial_round
   
   until sum > 21
-    
+    total = 
   end
 end
     
