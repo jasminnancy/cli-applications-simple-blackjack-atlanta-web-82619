@@ -53,8 +53,8 @@ end
 def runner
   welcome
   initial_round
-  until card_total > 21
-    
+  until card_total > 21 do
+    prompt_user
   end
 end
     
