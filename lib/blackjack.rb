@@ -54,6 +54,6 @@ def runner
   welcome
   initial_round
   prompt_user
-  if 
+  while card_total =< 
 end
     
