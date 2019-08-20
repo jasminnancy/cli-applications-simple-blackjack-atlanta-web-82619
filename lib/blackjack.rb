@@ -53,7 +53,8 @@ end
 def runner
   welcome
   initial_round
-  prompt_user
-  while card_total =< 
+  until card_total > 21
+    
+  end
 end
     
